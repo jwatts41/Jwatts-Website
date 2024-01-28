@@ -593,6 +593,7 @@ pre code {
   width: 100%;
 }
 
+
 @media (min-width: 576px) {
   .container {
     max-width: 576px;

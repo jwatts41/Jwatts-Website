@@ -111,6 +111,10 @@ hr {
   color: #fff;
 }
 
+
+#sc {
+  height: 245px;
+}
 /* Section, title & description styles */
 .single-section {
   background-color: #fff;
